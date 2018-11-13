@@ -1,6 +1,6 @@
 ## JAVA 3336 GROUP PROJECT
 
-The collaborators for this project are @rios02 and ____.
+The collaborators for this project are @rios02 and @jasonvp10.
 
 Our first time coding in java we were expected to create a project that demostrated what we have learned this semester.
 We decided to create a program that includes a menu based system to pick what you would like to do. For example, in this project 
