@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## JAVA 3336 GROUP PROJECT
 
-You can use the [editor on GitHub](https://github.com/catydiazxd/JavaProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The collaborators for this project are @rios02 and @jasonvp10.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our first time coding in java we were expected to create a project that demostrated what we have learned this semester.
+We decided to create a program that includes a menu based system to pick what you would like to do. For example, in this project 
+there is a couple of games, a basic calculator, timer, and other utilities.
 
 ### Markdown
 
